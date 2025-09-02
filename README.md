@@ -65,3 +65,4 @@ For Razer and Razer Chroma specific questions (how to set up effects, Studio etc
 
 If you have any additional questions or comments, please contact us [here!](https://grid-connect.com.au/smart-home-support/)
 
+Legal: [Service Agreement](https://grid-connect.com.au/service-agreement/)
