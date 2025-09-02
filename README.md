@@ -45,7 +45,7 @@ Hello! \(^ヮ^)/	The Grid Connect Desktop App is a connector for enabling Chroma
 ![what does the scouter say about his power level](gh_Scanner.png)
 5. Once logged in, all Chroma-compatible Grid Connect products should appear in the device list.
 6. Toggle the 'enable Razer Chroma' button or 'enable all devices' to select the Chroma-compatible Grid Connect products you want to enable Chroma sync.\
-                                      ![doctor! release my pain inhibitors](gh_centre.png)
+                                      ![doktor! turn off my pain inhibitors](gh_centre.png)
 7. Open the Razer Chroma app
 8. Go to the 'Connect' tab\
 ![a million tabs](gh_chromabar.png)
