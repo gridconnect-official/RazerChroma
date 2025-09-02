@@ -1,5 +1,5 @@
 ![super secret splash page](gh_splash.png)
-# ![logo](82_GClogo.png) Grid Connect Desktop App 
+# ![totally cool logo](82_GClogo.png) Grid Connect Desktop App 
 
 
 Hello! \(^ヮ^)/	The Grid Connect Desktop App is a connector for enabling Chroma-compatible Grid Connect products to work with the Razer Chroma ecosystem. 
@@ -49,5 +49,19 @@ Hello! \(^ヮ^)/	The Grid Connect Desktop App is a connector for enabling Chroma
 9. Enable 'Grid Connect' to enable Chroma for your Chroma-compatible Grid Connect products.
 10. For how to use Razer Chroma functions, [please check out Razer's tutorials](https://mysupport.razer.com/app/answers/detail/a_id/13698)
 
-## Troubleshooting:
+## Troubleshooting and FAQ:
+For Razer and Razer Chroma specific questions (how to set up effects, Studio etc) [please check the Razer Support Pages](https://mysupport.razer.com/app/answers/detail/a_id/13698)
+
+**All my devices are showing offline, or the Grid Connect Desktop App is not showing up on Razer Chroma Connect**
+- Ensure that your firewall is allowing a 'private' connection for both the Grid Connect Desktop App and Razer Chroma.
+- Try restarting your PC.
+- Try restarting the router as well.
+
+**Can I control the On/Off, colour effects of my Chroma-compatible Grid Connect devices on the Grid Connect Desktop App?**
+- No, the Grid Connect Desktop app can only act as a connect for the Razer Chroma functions. If you wish to control the devices, please use the Grid Connect mobile app.
+
+**My Chroma-compatible Grid Connect devices are not turning off/can't control on the Grid Connect mobile app**
+- Ensure that Razer Chroma sync is switched off on your PC before controlling your Chroma-compatible Grid Connect devices on the Grid Connect mobile app.
+
+If you have any additional questions or comments, please contact us [here!](https://grid-connect.com.au/smart-home-support/)
 
