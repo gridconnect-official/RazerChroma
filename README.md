@@ -58,7 +58,7 @@ For Razer and Razer Chroma specific questions (how to set up effects, Studio etc
 - Try restarting the router as well.
 
 **Can I control the On/Off, colour effects of my Chroma-compatible Grid Connect devices on the Grid Connect Desktop App?**
-- No, the Grid Connect Desktop app can only act as a connect for the Razer Chroma functions. If you wish to control the devices, please use the Grid Connect mobile app.
+- No, the Grid Connect Desktop app only acts as a connecter for the Razer Chroma function. If you wish to control the devices, please use the Grid Connect mobile app.
 
 **My Chroma-compatible Grid Connect devices are not turning off/can't control on the Grid Connect mobile app**
 - Ensure that Razer Chroma sync is switched off on your PC before controlling your Chroma-compatible Grid Connect devices on the Grid Connect mobile app.
