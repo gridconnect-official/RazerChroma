@@ -41,11 +41,14 @@ Hello! \(^ヮ^)/	The Grid Connect Desktop App is a connector for enabling Chroma
 4. Scan the QR code displayed on the Grid Connect Desktop app using the Grid Connect mobile app's built in QR code scanner
    1. In the Grid Connect mobile app's main page, press the '+' (add device) button
    2. Press the '[-]' QR code scanner button
-   3. Scan the QR code and follow the prompts
+   3. Scan the QR code and follow the prompts\
+![what does the scouter say about his power level](gh_Scanner.png)
 5. Once logged in, all Chroma-compatible Grid Connect products should appear in the device list.
-6. Toggle the 'enable Razer Chroma' button or 'enable all devices' to select the Chroma-compatible Grid Connect products you want to enable Chroma sync.
+6. Toggle the 'enable Razer Chroma' button or 'enable all devices' to select the Chroma-compatible Grid Connect products you want to enable Chroma sync.\
+                                      ![doctor! release my pain inhibitors](gh_centre.png)
 7. Open the Razer Chroma app
-8. Go to the 'Connect' tab
+8. Go to the 'Connect' tab\
+![a million tabs](gh_chromabar.png)
 9. Enable 'Grid Connect' to enable Chroma for your Chroma-compatible Grid Connect products.
 10. For how to use Razer Chroma functions, [please check out Razer's tutorials](https://mysupport.razer.com/app/answers/detail/a_id/13698)
 
